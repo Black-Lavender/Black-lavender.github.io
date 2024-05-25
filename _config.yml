@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Black Lavendar
+title: Adrian Carrillo
 
 # Your name to show in the footer
 author: Adrian Carrillo
@@ -52,7 +52,7 @@ round-avatar: true
 social-network-links:
   email: "carrilloadrian399@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: black-lavendar
+  github: black-lavender
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -74,7 +74,7 @@ social-network-links:
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
-   gitlab: Black-lavender
+#  gitlab: Black-lavender
 #  untappd: yourname
 
 # If you want your website to generate an RSS feed, provide a description
@@ -252,7 +252,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/New York"
+timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
